@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SurfCast with ETL and Python<br>🌱 Still learning Python<br>
+🔭 I’m currently working on SurfCast with Knime and Python<br>🌱 Still learning Python<br>
 
 
 ## 🌐 Socials:
